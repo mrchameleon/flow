@@ -1,4 +1,6 @@
 # flow
+
+
 notes from the phoenix project
 
 
@@ -39,3 +41,6 @@ put developers in contact directly with stakeholders who will use the product - 
 
 
 customer advisory board
+
+
+do better than kaizen/continuous improvement with a one second implementation. stop having meetings talking about the thing and do the thing. now.
