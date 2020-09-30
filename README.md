@@ -1,7 +1,7 @@
 # flow
 
 
-notes from the phoenix project
+## notes from the phoenix project
 
 
 make work visible *1
@@ -25,7 +25,7 @@ build better environments and tools
 eliminate hardships and waste in the value stream
 
 
-Misc Notes of My Own, Less stolen from Gene Kim and more random on the topic of 'process' in engineering
+## Misc Notes of My Own, Less stolen from Gene Kim and more random on the topic of 'process' in engineering
 
 
 *1:  (Clickup, Trello, JIRA boards)
